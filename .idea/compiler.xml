@@ -9,6 +9,6 @@
         <module name="untitled5_1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="7" />
+    <bytecodeTargetLevel target="9" />
   </component>
 </project>
